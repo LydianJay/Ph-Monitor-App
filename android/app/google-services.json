@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089540674888",
+    "project_id": "ph-monitor-app",
+    "storage_bucket": "ph-monitor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089540674888:android:d94c7f8c2338c760234f7d",
+        "android_client_info": {
+          "package_name": "com.example.monitorph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuResZ3yDUAyuVY1RIe_NoWNOsAhaxR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
