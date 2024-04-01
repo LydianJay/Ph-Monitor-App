@@ -39,6 +39,9 @@ dependencies:
   firebase_core: ^2.24.2
   syncfusion_flutter_gauges: ^25.1.35
   syncfusion_flutter_charts: ^25.1.35
+  flutter_local_notifications: ^17.0.0
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.2+1
 dev_dependencies:
   flutter_test:
     sdk: flutter
